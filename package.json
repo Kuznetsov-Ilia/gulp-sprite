@@ -1,0 +1,28 @@
+{
+  "name": "gulp-sprite",
+  "version": "0.0.0",
+  "description": "gulp sprite plugin",
+  "author": "Ilia Kuznetsov",
+  "contributors": [{
+    "name": "Ilia Kuznetsov",
+    "email": "killxxxvi@mail.ru"
+  }],
+  "main": "sprite.js",
+  "scripts": {},
+  "peerDependencies": {
+    "gulp-util": "*",
+    "node-sprite": "*",
+    "node-imagemagick": "*"
+  },
+  "devDependencies": {
+    "gulp": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QiV/gulp-sprite.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "MIT"
+}
